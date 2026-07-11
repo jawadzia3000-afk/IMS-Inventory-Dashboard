@@ -6,9 +6,7 @@ It's now a complete, working inventory management app.
 
 ## Run it
 
-```bash
-npm install
-npm run dev
+https://ims-inventory-dashboard-9d9361.netlify.app/login
 ```
 
 Open the printed local URL. First screen is a simple login (pick Admin or Employee —
